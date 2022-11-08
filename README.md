@@ -41,6 +41,9 @@ Akshara and I collaborated on this project. We checked and noted the assignment
 
 ##### Step 5: To print the vmx feature of the register and the make file, cloned the git repository using the professor's program. Also, Installing the make module using the below command.
 
+<img width="461" alt="step 6 finallll" src="https://user-images.githubusercontent.com/99699489/200483257-729fe198-858f-4c54-95b1-8e7b8a001b54.png">
+
+
 
 
 ##### Step 6: Installed the linux header of the current kernel to run the make command. Run the make command, use insmod to insert the module to the kernel, and display the features of the considered register.
