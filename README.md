@@ -11,6 +11,8 @@ I watched the lecture video with Abhinav, and we both followed the instructions 
 
 ### Abhinav's Contribution
 
+Akshara and I collaborated on this project. We checked and noted the assignment's specifications & rubric and went over the lecture recording's specifications. I extracted the starter.c file and makefile from her GCP, added the extra structs, and defined the various capability info sections. I increased the calls to report capability as well as the remaining reads of the msrs for each capability in the detect vmx features function. By running make and then sudo insmod on the freshly created.ko file, I attempted to test it.
+
 
 
 
@@ -31,6 +33,9 @@ I watched the lecture video with Abhinav, and we both followed the instructions 
 
 
 ##### Step 4: Determining if VM virtualization is activated: getting anything other than 0 indicates the nested virtualization is activated.
+
+<img width="450" alt="step 4 final" src="https://user-images.githubusercontent.com/99699489/200483095-0d1cae32-f599-4fa8-acc4-1cbc9e688c75.png">
+
 
 
 
