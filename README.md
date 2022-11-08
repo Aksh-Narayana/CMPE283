@@ -46,6 +46,8 @@ I watched the lecture video with Abhinav, and we both followed the instructions 
 
 #### Reference for checking secondary processor
 
+<img width="646" alt="image" src="https://user-images.githubusercontent.com/99863530/200481568-5ddf0817-c528-4a3f-97c6-22753e63402f.png">
+
 
 
 ##### Reference for Checking Tertiary processor
