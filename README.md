@@ -48,6 +48,8 @@ Akshara and I collaborated on this project. We checked and noted the assignment
 
 ##### Step 6: Installed the linux header of the current kernel to run the make command. Run the make command, use insmod to insert the module to the kernel, and display the features of the considered register.
 
+<img width="468" alt="step 8 3 is mana step 6 1" src="https://user-images.githubusercontent.com/99699489/200483494-fbaaafff-1c8c-42df-8715-08c8007f3948.png">
+
 
 
 ##### Step 7: After adding the remaining structs and definitions, you'll see the below output
