@@ -22,6 +22,9 @@ I watched the lecture video with Abhinav, and we both followed the instructions 
 
 ##### Step 2: Updated the configuration file with details about nested virtualization
 
+<img width="466" alt="step 2 final" src="https://user-images.githubusercontent.com/99699489/200482922-8060a892-ce55-4bde-8bfa-c878ec988c27.png">
+
+
 
 
 ##### Step 3: Updated the VM configuration
