@@ -54,6 +54,14 @@ Akshara and I collaborated on this project. We checked and noted the assignment
 
 ##### Step 7: After adding the remaining structs and definitions, you'll see the below output
 
+![final 1 1 (2)](https://user-images.githubusercontent.com/99699489/200483978-6ee77f15-f919-43da-a030-d5069cf716fb.png)
+
+
+![final 1 2](https://user-images.githubusercontent.com/99699489/200484006-6f107f12-c130-4115-af52-c8d35fe99560.png)
+
+
+![final 1 3](https://user-images.githubusercontent.com/99699489/200484070-e30e5cfb-6f5c-4a40-87a9-7408077ab876.png)
+
 
 
 
